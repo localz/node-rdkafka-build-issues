@@ -1,0 +1,11 @@
+{
+  "name": "node-rdkafka-build-issue",
+  "version": "0.0.1",
+  "description": "Build issue with node-rdkafka v2.1.1",
+  "main": "index.js",
+  "author": "Jarrod",
+  "license": "MIT",
+  "dependencies": {
+    "node-rdkafka": "2.1.1"
+  }
+}
